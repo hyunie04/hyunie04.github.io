@@ -19,6 +19,7 @@ else
 printf("당신의 사주는 그럭저럭입니다.\n");
 return 0;
 }~~~ 
+
 ### 02. 3개의 터널 통과
 ![tunnul](/assets/images/3.jpg)
 ~~~c
@@ -37,6 +38,7 @@ else
 printf("무사 통과");
 return 0;
 }~~~ 
+
 ### 03. 이 달은 며칠까지 있을까?
 ![callenderl](/assets/images/3-1.jpg)
 ~~~c
