@@ -7,7 +7,7 @@ toc_label: "페이지 주요 목차"
 --- 
 ### 01. 사주보기
 
-![saju](/assets/images/1 (1).jpg)
+![saju](/assets/images/2.jpg)
 ~~~c
 #include <stdio.h>
 int main(void)
